@@ -6,7 +6,7 @@
 
 Project Description
 
-This project is intended to help a user find a similar song both in the Hot 100 List or another plalist, by clustering the audio feautures.
+This project is intended to help a user find a similar song both in the Hot 100 List or another playlist, by clustering the audio feautures.
 
 The playlist next to the top 100 includes 10000 songs
 
